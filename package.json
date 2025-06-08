@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "blog_project",
+  "version": "1.0.0",
+  "description": "Blog Project",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "scripts": {
+     "start": "nodemon index.js"
+  },
+  "author": "Adriana F. Carvalho",
+  "license": "ISC"
+}
